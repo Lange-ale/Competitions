@@ -3,8 +3,8 @@
 - **[IEEEXTREME 17.0](https://ieeextreme.org)** (October 28, 2023)
   - Team: **_NotNord_**
   - Position in Italy: **3°**
-  - Position in Region 8: **119°**
-  - Global Position: **507°**
+  - Position in Region 8: **113°**
+  - Global Position: **459°**
   - [Ranking](https://ieeextreme.org/ieeextreme-17-0-ranking/)
   - [My solutions](https://github.com/Lange-ale/IEEEXTREME-solutions/tree/master/IEEEXTREME17)
 
